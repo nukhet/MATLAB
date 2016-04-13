@@ -7,9 +7,8 @@ Functions
 * ...
 
 # Linear Regression
-  Function for linear regression. This function plots x,y  
-  values as circular dots and also draws the regression  
-  line on the same plot, and returns the slope and y-intercept.  
+  Function for linear regression. This function plots x,y values as circular dots and also draws the regression line on the same plot, and returns the slope and y-intercept.  
+     
   INPUTS:  
       x - independent(predictor) variable  
       y - dependent(outcome) variable  
